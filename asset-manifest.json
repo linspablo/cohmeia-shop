@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cohmeia-shop/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/cohmeia-shop/static/js/main.4863f83c.chunk.js",
+    "main.js.map": "/cohmeia-shop/static/js/main.4863f83c.chunk.js.map",
+    "runtime-main.js": "/cohmeia-shop/static/js/runtime-main.16367c07.js",
+    "runtime-main.js.map": "/cohmeia-shop/static/js/runtime-main.16367c07.js.map",
+    "static/js/2.fdce2164.chunk.js": "/cohmeia-shop/static/js/2.fdce2164.chunk.js",
+    "static/js/2.fdce2164.chunk.js.map": "/cohmeia-shop/static/js/2.fdce2164.chunk.js.map",
+    "static/js/3.68eb0584.chunk.js": "/cohmeia-shop/static/js/3.68eb0584.chunk.js",
+    "static/js/3.68eb0584.chunk.js.map": "/cohmeia-shop/static/js/3.68eb0584.chunk.js.map",
+    "index.html": "/cohmeia-shop/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/cohmeia-shop/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.fdce2164.chunk.js.LICENSE.txt": "/cohmeia-shop/static/js/2.fdce2164.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/cohmeia-shop/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16367c07.js",
+    "static/js/2.fdce2164.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.4863f83c.chunk.js"
+  ]
+}
